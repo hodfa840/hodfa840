@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Hoda Fakhar
+- 👋 Hi, I’m Hoda Fakhar 
+Data Scientist passionate about using machine learning to solve real-world problems. Skilled in Python, PyTorch, SQL, and data visualization.
 - 👀 I’m interested in Machine learning, Deep learning, Data Science and Artificial Intelligence!
 - 🌱 I’m currently learning Machine learning by implementing various models.
 - 💞️ I’m looking to collaborate on Large Datasets projects
