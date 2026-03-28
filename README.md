@@ -15,7 +15,7 @@ My research focuses on understanding how large language models think, from analy
 
 | Project | What it does |
 |---------|-------------|
-| [VANE](https://github.com/hodfa840/vane) | Training-free framework that predicts LLM reasoning correctness from hidden-state geometry. Published at EMNLP 2025 Findings. |
+| [VANE](https://github.com/hodfa840/vane) | Training-free framework that predicts LLM reasoning correctness from hidden-state geometry.|
 | [llm-gpu-bench](https://github.com/hodfa840/llm-gpu-bench) | Benchmark suite measuring inference speed, fine-tuning throughput, and VRAM usage across LLM families. |
 | [GRPO-Math](https://github.com/hodfa840/GRPO-Math) | Fine-tuning LLMs with Group Relative Policy Optimization on math reasoning (GSM8K). |
 
