@@ -4,6 +4,8 @@ PhD student at [Linköping University](https://liu.se/en/employee/hodfa71) in th
 
 My research focuses on understanding how large language models think, from analyzing their internal geometry to improving how they learn through reinforcement learning and verifiable rewards.
 
+**Website:** [hodfa840.github.io](https://hodfa840.github.io)
+
 ### What I work on
 
 - **LLM interpretability**: detecting reasoning failures from hidden-state geometry ([VANE](https://github.com/hodfa840/vane))
